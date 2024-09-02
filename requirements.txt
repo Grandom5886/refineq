@@ -1,0 +1,9 @@
+pandas
+numpy
+streamlit
+transformers
+faiss-cpu
+sentence-transformers                                                                                  
+beautifulsoup4
+python-dotenv
+langchain==0.1.1
